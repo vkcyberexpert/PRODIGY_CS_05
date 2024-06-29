@@ -1,0 +1,170 @@
+Source IP: 34.120.32.134
+Destination IP: 10.0.2.15
+Protocol: UDP
+Payload: UDP 34.120.32.134:https > 10.0.2.15:53088 / Raw
+--------------------------------------------------
+Source IP: 10.0.2.15
+Destination IP: 34.120.32.134
+Protocol: UDP
+Payload: UDP 10.0.2.15:53088 > 34.120.32.134:https / Raw
+--------------------------------------------------
+Source IP: 10.0.2.15
+Destination IP: 34.120.32.134
+Protocol: UDP
+Payload: UDP 10.0.2.15:53088 > 34.120.32.134:https / Raw
+--------------------------------------------------
+Source IP: 34.120.32.134
+Destination IP: 10.0.2.15
+Protocol: UDP
+Payload: UDP 34.120.32.134:https > 10.0.2.15:53088 / Raw
+--------------------------------------------------
+Source IP: 34.120.32.134
+Destination IP: 10.0.2.15
+Protocol: UDP
+Payload: UDP 34.120.32.134:https > 10.0.2.15:53088 / Raw
+--------------------------------------------------
+Source IP: 10.0.2.15
+Destination IP: 34.120.32.134
+Protocol: UDP
+Payload: UDP 10.0.2.15:53088 > 34.120.32.134:https / Raw
+--------------------------------------------------
+Source IP: 34.120.32.134
+Destination IP: 10.0.2.15
+Protocol: UDP
+Payload: UDP 34.120.32.134:https > 10.0.2.15:53088 / Raw
+--------------------------------------------------
+Source IP: 34.120.32.134
+Destination IP: 10.0.2.15
+Protocol: UDP
+Payload: UDP 34.120.32.134:https > 10.0.2.15:53088 / Raw
+--------------------------------------------------
+Source IP: 10.0.2.15
+Destination IP: 34.120.32.134
+Protocol: UDP
+Payload: UDP 10.0.2.15:53088 > 34.120.32.134:https / Raw
+--------------------------------------------------
+Source IP: 10.0.2.15
+Destination IP: 34.120.32.134
+Protocol: UDP
+Payload: UDP 10.0.2.15:53088 > 34.120.32.134:https / Raw
+--------------------------------------------------
+Source IP: 34.120.32.134
+Destination IP: 10.0.2.15
+Protocol: UDP
+Payload: UDP 34.120.32.134:https > 10.0.2.15:53088 / Raw
+--------------------------------------------------
+Source IP: 10.0.2.15
+Destination IP: 34.237.73.95
+Protocol: TCP
+Payload: TCP 10.0.2.15:58858 > 34.237.73.95:https PA / Raw
+--------------------------------------------------
+Source IP: 34.237.73.95
+Destination IP: 10.0.2.15
+Protocol: TCP
+Payload: TCP 34.237.73.95:https > 10.0.2.15:58858 A / Padding
+--------------------------------------------------
+Source IP: 34.237.73.95
+Destination IP: 10.0.2.15
+Protocol: TCP
+Payload: TCP 34.237.73.95:https > 10.0.2.15:58858 PA / Raw
+--------------------------------------------------
+Source IP: 10.0.2.15
+Destination IP: 34.237.73.95
+Protocol: TCP
+Payload: TCP 10.0.2.15:58858 > 34.237.73.95:https A
+--------------------------------------------------
+Source IP: 34.237.73.95
+Destination IP: 10.0.2.15
+Protocol: TCP
+Payload: TCP 34.237.73.95:https > 10.0.2.15:58858 PA / Raw
+--------------------------------------------------
+Source IP: 10.0.2.15
+Destination IP: 34.237.73.95
+Protocol: TCP
+Payload: TCP 10.0.2.15:58858 > 34.237.73.95:https A
+--------------------------------------------------
+Source IP: 10.0.2.15
+Destination IP: 34.237.73.95
+Protocol: TCP
+Payload: TCP 10.0.2.15:58858 > 34.237.73.95:https PA / Raw
+--------------------------------------------------
+Source IP: 34.237.73.95
+Destination IP: 10.0.2.15
+Protocol: TCP
+Payload: TCP 34.237.73.95:https > 10.0.2.15:58858 A / Padding
+--------------------------------------------------
+Source IP: 10.0.2.15
+Destination IP: 34.120.32.134
+Protocol: UDP
+Payload: UDP 10.0.2.15:53088 > 34.120.32.134:https / Raw
+--------------------------------------------------
+Source IP: 34.120.32.134
+Destination IP: 10.0.2.15
+Protocol: UDP
+Payload: UDP 34.120.32.134:https > 10.0.2.15:53088 / Raw
+--------------------------------------------------
+Source IP: 10.0.2.15
+Destination IP: 34.120.32.134
+Protocol: UDP
+Payload: UDP 10.0.2.15:53088 > 34.120.32.134:https / Raw
+--------------------------------------------------
+Source IP: 10.0.2.15
+Destination IP: 34.237.73.95
+Protocol: TCP
+Payload: TCP 10.0.2.15:58858 > 34.237.73.95:https PA / Raw
+--------------------------------------------------
+Source IP: 34.237.73.95
+Destination IP: 10.0.2.15
+Protocol: TCP
+Payload: TCP 34.237.73.95:https > 10.0.2.15:58858 A / Padding
+--------------------------------------------------
+Source IP: 34.120.32.134
+Destination IP: 10.0.2.15
+Protocol: UDP
+Payload: UDP 34.120.32.134:https > 10.0.2.15:53088 / Raw
+--------------------------------------------------
+Source IP: 10.0.2.15
+Destination IP: 34.120.32.134
+Protocol: UDP
+Payload: UDP 10.0.2.15:53088 > 34.120.32.134:https / Raw
+--------------------------------------------------
+Source IP: 34.120.32.134
+Destination IP: 10.0.2.15
+Protocol: UDP
+Payload: UDP 34.120.32.134:https > 10.0.2.15:53088 / Raw
+--------------------------------------------------
+Source IP: 10.0.2.15
+Destination IP: 34.120.32.134
+Protocol: UDP
+Payload: UDP 10.0.2.15:53088 > 34.120.32.134:https / Raw
+--------------------------------------------------
+Source IP: 34.120.32.134
+Destination IP: 10.0.2.15
+Protocol: UDP
+Payload: UDP 34.120.32.134:https > 10.0.2.15:53088 / Raw
+--------------------------------------------------
+Source IP: 10.0.2.15
+Destination IP: 34.120.32.134
+Protocol: UDP
+Payload: UDP 10.0.2.15:53088 > 34.120.32.134:https / Raw
+--------------------------------------------------
+Source IP: 34.120.32.134
+Destination IP: 10.0.2.15
+Protocol: UDP
+Payload: UDP 34.120.32.134:https > 10.0.2.15:53088 / Raw
+--------------------------------------------------
+Source IP: 34.120.32.134
+Destination IP: 10.0.2.15
+Protocol: UDP
+Payload: UDP 34.120.32.134:https > 10.0.2.15:53088 / Raw
+--------------------------------------------------
+Source IP: 10.0.2.15
+Destination IP: 34.120.32.134
+Protocol: UDP
+Payload: UDP 10.0.2.15:53088 > 34.120.32.134:https / Raw
+--------------------------------------------------
+Source IP: 34.120.32.134
+Destination IP: 10.0.2.15
+Protocol: UDP
+Payload: UDP 34.120.32.134:https > 10.0.2.15:53088 / Raw
+--------------------------------------------------
